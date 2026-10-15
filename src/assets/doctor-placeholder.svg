@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Doctor profile placeholder">
+  <rect width="240" height="240" rx="120" fill="#eaf3fc"/>
+  <circle cx="120" cy="83" r="43" fill="#b7cce0"/>
+  <path d="M44 222c4-47 34-77 76-77s72 30 76 77" fill="#2c6fb8"/>
+  <path d="m94 148 26 35 26-35-12-9h-28z" fill="#fff"/>
+  <path d="M119 178h3l8 44h-19z" fill="#d14d4d"/>
+  <path d="M92 149c-9 7-16 17-20 29l19 8 14-28zm56 0c9 7 16 17 20 29l-19 8-14-28z" fill="#fff"/>
+  <circle cx="153" cy="178" r="4" fill="#2c6fb8"/>
+  <path d="M159 182v14a8 8 0 0 1-16 0v-8" fill="none" stroke="#2c6fb8" stroke-width="4" stroke-linecap="round"/>
+</svg>
