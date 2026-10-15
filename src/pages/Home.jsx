@@ -54,6 +54,7 @@ const Home = () => {
               Book appointments with top specialists, track your treatment and stay connected with a
               digital health experience built for modern patient care.
             </p>
+            <p>welcome to our healthcare platform!</p>
             <div className="hero-actions">
               <Link to="/doctors" className="btn btn-primary">Find a doctor</Link>
               <Link to="/register" className="btn btn-secondary">Create account</Link>
